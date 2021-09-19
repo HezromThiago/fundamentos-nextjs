@@ -1,0 +1,16 @@
+.navegador{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.6rem;
+    padding: 10px 25px;
+    margin: 10px;
+    border-radius: 7px;
+    color: #eee;
+    transition: all 200ms ease;
+    cursor: pointer;
+}
+
+.navegador:hover {
+    background-color: rgba(199, 18, 18, 0.842) !important;
+    color: #eee;
+}
