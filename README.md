@@ -1,6 +1,6 @@
 ### Fundamentos do Next.js
 
-As principais funcionalidades do Next.js
+As principais funcionalidades do Next.js aprendidas.
 - Estrutura de Pastas
 - Componentes/Rotas
 - Arquivos JSX
